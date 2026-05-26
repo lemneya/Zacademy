@@ -17,6 +17,7 @@ This is Hermes' working model of the Founder. Update it as new signal arrives; k
 - Bilingual / multilingual public presence (Arabic, French, English).
 - An existing public audience to build on (Facebook page at ~7,000 followers, growing).
 - Willingness to use AI agents as a leadership team (ChatGPT, Claude Code, Hermes).
+- **Execution preference:** Complete builds, not incremental. When he says "build it completely and don't stop," he means ship full artifacts, not plans or outlines.
 
 ## Public mission
 
@@ -45,3 +46,4 @@ This is Hermes' working model of the Founder. Update it as new signal arrives; k
 - Three layers stay separate: public identity / course product / long-term Zidni ecosystem.
 - Strategy changes go through the Gatekeeper, not directly into memory.
 - When in doubt: re-read `docs/SSOT.md`.
+- **Execution style:** The Founder wants complete, shippable artifacts. Do not stop at outlines or plans.

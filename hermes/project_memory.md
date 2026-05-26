@@ -12,3 +12,38 @@ Append-stable facts about the project. These should change rarely. If one of the
 - **Public movement:** AI literacy for Nouadhibou and Mauritania
 - **Long-term ecosystem:** Zidni (broader platform / super-app, of which the Academy is the education and trust layer)
 - **Name rule:** do not use any other "Academy" variant for the brand. The repo name `Zacademy` may stay as-is, but the product is always **Zidni Academy**.
+
+---
+
+## Build Artifacts (as of this session)
+
+### COURSE-V1-0
+- Status: COMPLETE
+- Location: `course/` directory
+- Contents: 1 README + 28 daily lessons (day-01 through day-28)
+- Language: Arabic primary, French/English terms explained
+- Target: Absolute beginners in Nouadhibou
+
+### FACEBOOK-CAMPAIGN-30D-0
+- Status: COMPLETE
+- Location: `facebook-campaign/` directory
+- Contents: 1 README + 30 days of posts (morning/afternoon/evening each) + 12 video scripts
+- Language: Arabic primary
+- Target: Facebook page growth 7,000 → 100,000 followers
+
+### LANDING-PAGE-0
+- Status: COMPLETE
+- Location: `landing-page/index.html`
+- Contents: Responsive HTML landing page with sections for hero, stats, course overview, audience, founder bio
+- Language: Arabic RTL
+
+### WHATSAPP-REGISTRATION-0
+- Status: COMPLETE
+- Location: `whatsapp-registration/README.md`
+- Contents: Registration flow docs, Google Form fields, 7-day challenge message templates, follow-up sequences
+- Language: Arabic primary
+
+### HERMES-LEARNING-LOOP-0
+- Status: COMPLETE
+- Location: `hermes/learning_log.md` (updated)
+- Contents: Session log documenting full build session
